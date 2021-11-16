@@ -1,5 +1,5 @@
 package edu.cpcc.labs.model;
-
+// hey buddy
 public class Greeting {
 
 	private Long id;
